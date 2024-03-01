@@ -6,7 +6,7 @@
       "age": 25,
       "active": true,
       "birthdate": "1999-03-27",
-      "imageUrl": "",
+      "imageUrl": "https://github.com/ESG61/projectcharackters/blob/main/images/ezreal.jpg",
       "role": "Marksman",
       "hobbies": ["Exploring", "Archaeology"],
       "otherObject": {
@@ -24,7 +24,7 @@
       "age": 22,
       "active": true,
       "birthdate": "2002-07-05",
-      "imageUrl": "",
+      "imageUrl": "https://github.com/ESG61/projectcharackters/blob/main/images/lux.jpg",
       "role": "Mage",
       "hobbies": ["Reading", "Painting"],
       "otherObject": {
@@ -42,7 +42,7 @@
       "age": 30,
       "active": true,
       "birthdate": "1994-11-07",
-      "imageUrl": "",
+      "imageUrl": "https://github.com/ESG61/projectcharackters/blob/main/images/garen.jpg",
       "role": "Fighter",
       "hobbies": ["Training", "Honor"],
       "otherObject": {
@@ -60,7 +60,7 @@
       "age": 1000,
       "active": true,
       "birthdate": "1024-12-14",
-      "imageUrl": "",
+      "imageUrl": "https://github.com/ESG61/projectcharackters/blob/main/images/ahri.jpg",
       "role": "Mage",
       "hobbies": ["Dancing", "Reading"],
       "otherObject": {
@@ -78,7 +78,7 @@
       "age": 37,
       "active": true,
       "birthdate": "1987-06-17",
-      "imageUrl": "",
+      "imageUrl": "https://github.com/ESG61/projectcharackters/blob/main/images/darius.jpg",
       "role": "Fighter",
       "hobbies": ["Conquering", "Combat"],
       "otherObject": {
@@ -96,7 +96,7 @@
       "age": 22,
       "active": true,
       "birthdate": "2002-09-28",
-      "imageUrl": "",
+      "imageUrl": "https://github.com/ESG61/projectcharackters/blob/main/images/jinx.jpg",
       "role": "Marksman",
       "hobbies": ["Explosions", "Mayhem"],
       "otherObject": {
@@ -114,7 +114,7 @@
       "age": 25,
       "active": true,
       "birthdate": "1999-08-20",
-      "imageUrl": "",
+      "imageUrl": "https://github.com/ESG61/projectcharackters/blob/main/images/sona.jpg",
       "role": "Support",
       "hobbies": ["Music", "Mediation"],
       "otherObject": {
@@ -132,7 +132,7 @@
       "age": 29,
       "active": true,
       "birthdate": "1995-04-19",
-      "imageUrl": "",
+      "imageUrl": "https://github.com/ESG61/projectcharackters/blob/main/images/yasuo.jpg",
       "role": "Fighter",
       "hobbies": ["Swordsmanship", "Wandering"],
       "otherObject": {
@@ -150,7 +150,7 @@
       "age": 35,
       "active": true,
       "birthdate": "1989-12-03",
-      "imageUrl": "",
+      "imageUrl": "https://github.com/ESG61/projectcharackters/blob/main/images/zed.jpg",
       "role": "Assassin",
       "hobbies": ["Ninjutsu", "Meditation"],
       "otherObject": {
@@ -168,7 +168,7 @@
       "age": 8,
       "active": true,
       "birthdate": "2016-02-21",
-      "imageUrl": "",
+      "imageUrl": "https://github.com/ESG61/projectcharackters/blob/main/images/annie.jpg",
       "role": "Mage",
       "hobbies": ["Playing with Tibbers", "Magic"],
       "otherObject": {
