@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "name": "Ezreal",
+      "description": "Ezreal is a daring adventurer and an intrepid explorer, delving into forgotten ruins and battling ancient curses.",
+      "age": 25,
+      "active": true,
+      "birthdate": "1999-03-27",
+      "imageUrl": "",
+      "role": "Marksman",
+      "hobbies": ["Exploring", "Archaeology"],
+      "otherObject": {
+        "id": 101,
+        "ability": "Mystic Shot",
+      "damage": 50,
+      "cooldown": 10,
+      "range": 1100
+      }
+    },
+    {
+      "id": 2,
+      "name": "Lux",
+      "description": "Lux is a mage who wields the power of light, bringing illumination and justice to the battlefield.",
+      "age": 22,
+      "active": true,
+      "birthdate": "2002-07-05",
+      "imageUrl": "",
+      "role": "Mage",
+      "hobbies": ["Reading", "Painting"],
+      "otherObject": {
+        "id": 102,
+        "ability": "Final Spark",
+      "damage": 300,
+      "cooldown": 80,
+      "range": 3340
+      }
+    },
+    {
+      "id": 3,
+      "name": "Garen",
+      "description": "Garen is a proud and noble warrior who fights for justice with his massive sword.",
+      "age": 30,
+      "active": true,
+      "birthdate": "1994-11-07",
+      "imageUrl": "",
+      "role": "Fighter",
+      "hobbies": ["Training", "Honor"],
+      "otherObject": {
+        "id": 103,
+        "ability": "Decimate",
+      "damage": 120,
+      "cooldown": 9,
+      "range": 425
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ahri",
+      "description": "Ahri is a charismatic mage who lures her enemies with her charm before destroying them with her magic.",
+      "age": 1000,
+      "active": true,
+      "birthdate": "1024-12-14",
+      "imageUrl": "",
+      "role": "Mage",
+      "hobbies": ["Dancing", "Reading"],
+      "otherObject": {
+        "id": 104,
+        "ability": "Orb of Deception",
+      "damage": 250,
+      "cooldown": 9,
+      "range": 880
+      }
+    },
+    {
+      "id": 5,
+      "name": "Darius",
+      "description": "Darius is a fearsome warrior with an unmatched strength, wielding his giant axe in battle.",
+      "age": 37,
+      "active": true,
+      "birthdate": "1987-06-17",
+      "imageUrl": "",
+      "role": "Fighter",
+      "hobbies": ["Conquering", "Combat"],
+      "otherObject": {
+        "id": 105,
+        "ability": "Decimate",
+      "damage": 120,
+      "cooldown": 9,
+      "range": 425
+      }
+    },
+    {
+      "id": 6,
+      "name": "Jinx",
+      "description": "Jinx is a manic and impulsive criminal who loves chaos and destruction.",
+      "age": 22,
+      "active": true,
+      "birthdate": "2002-09-28",
+      "imageUrl": "",
+      "role": "Marksman",
+      "hobbies": ["Explosions", "Mayhem"],
+      "otherObject": {
+        "id": 106,
+        "ability": "Switcheroo!",
+      "damage": 10,
+      "cooldown": 0,
+      "range": 600
+      }
+    },
+    {
+      "id": 7,
+      "name": "Sona",
+      "description": "Sona is a mute musician who uses the power of her melodies to heal and empower her allies.",
+      "age": 25,
+      "active": true,
+      "birthdate": "1999-08-20",
+      "imageUrl": "",
+      "role": "Support",
+      "hobbies": ["Music", "Mediation"],
+      "otherObject": {
+        "id": 107,
+        "ability": "Hymn of Valor",
+      "damage": 50,
+      "cooldown": 10,
+      "range": 825
+      }
+    },
+    {
+      "id": 8,
+      "name": "Yasuo",
+      "description": "Yasuo is a wandering swordsman seeking redemption for a past mistake.",
+      "age": 29,
+      "active": true,
+      "birthdate": "1995-04-19",
+      "imageUrl": "",
+      "role": "Fighter",
+      "hobbies": ["Swordsmanship", "Wandering"],
+      "otherObject": {
+        "id": 108,
+        "ability": "Steel Tempest",
+      "damage": 20,
+      "cooldown": 6,
+      "range": 475
+      }
+    },
+    {
+      "id": 9,
+      "name": "Zed",
+      "description": "Zed is the master of shadows, manipulating darkness and striking with deadly precision.",
+      "age": 35,
+      "active": true,
+      "birthdate": "1989-12-03",
+      "imageUrl": "",
+      "role": "Assassin",
+      "hobbies": ["Ninjutsu", "Meditation"],
+      "otherObject": {
+        "id": 109,
+        "ability": "Razor Shuriken",
+      "damage": 90,
+      "cooldown": 6,
+      "range": 900
+      }
+    },
+    {
+      "id": 10,
+      "name": "Annie",
+      "description": "Annie is a prodigious young mage with an affinity for fire, accompanied by her fearsome bear Tibbers.",
+      "age": 8,
+      "active": true,
+      "birthdate": "2016-02-21",
+      "imageUrl": "",
+      "role": "Mage",
+      "hobbies": ["Playing with Tibbers", "Magic"],
+      "otherObject": {
+        "id": 110,
+        "ability": "Disintegrate",
+      "damage": 80,
+      "cooldown": 4,
+      "range": 625
+      }
+    }
+  ]
+  

@@ -1,0 +1,73 @@
+[
+    {
+      "id": 101,
+      "ability": "Mystic Shot",
+      "damage": 50,
+      "cooldown": 10,
+      "range": 1100
+    },
+    {
+      "id": 102,
+      "ability": "Final Spark",
+      "damage": 300,
+      "cooldown": 80,
+      "range": 3340
+    },
+    {
+      "id": 103,
+      "ability": "Decimate",
+      "damage": 120,
+      "cooldown": 9,
+      "range": 425
+    },
+    {
+      "id": 104,
+      "ability": "Orb of Deception",
+      "damage": 250,
+      "cooldown": 9,
+      "range": 880
+    },
+    {
+      "id": 105,
+      "ability": "Decimate",
+      "damage": 120,
+      "cooldown": 9,
+      "range": 425
+    },
+    {
+      "id": 106,
+      "ability": "Switcheroo!",
+      "damage": 10,
+      "cooldown": 0,
+      "range": 600
+    },
+    {
+      "id": 107,
+      "ability": "Hymn of Valor",
+      "damage": 50,
+      "cooldown": 10,
+      "range": 825
+    },
+    {
+      "id": 108,
+      "ability": "Steel Tempest",
+      "damage": 20,
+      "cooldown": 6,
+      "range": 475
+    },
+    {
+      "id": 109,
+      "ability": "Razor Shuriken",
+      "damage": 90,
+      "cooldown": 6,
+      "range": 900
+    },
+    {
+      "id": 110,
+      "ability": "Disintegrate",
+      "damage": 80,
+      "cooldown": 4,
+      "range": 625
+    }
+  ]
+  
