@@ -1,2 +1,3 @@
 # projectcharackters
-images voor project
+json files
+
